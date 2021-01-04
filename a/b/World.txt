@@ -1,0 +1,2 @@
+This is using a/b/ @JJK3-org/TeamB from codeowners
+This should be owned by both jjkenn-1 and jjkennedy3 if the theory is correct that the root is not being respected
